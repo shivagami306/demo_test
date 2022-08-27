@@ -9,9 +9,9 @@ class MultitenancyDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		
-		
-	}
+		}
 	
+
 	@Test
 	void contextLoadsOne() {
 	}
@@ -19,5 +19,6 @@ class MultitenancyDemoApplicationTests {
 	@Test
 	void contextLoadsTwo() {
 	}
+
 
 }
