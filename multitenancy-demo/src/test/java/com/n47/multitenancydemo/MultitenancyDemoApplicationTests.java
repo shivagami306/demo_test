@@ -11,5 +11,14 @@ class MultitenancyDemoApplicationTests {
 		
 		}
 	
-	
+
+	@Test
+	void contextLoadsOne() {
+	}
+
+	@Test
+	void contextLoadsTwo() {
+	}
+
+
 }
