@@ -26,4 +26,9 @@ public class UserController {
     public List<UserDomain> getAll() {
         return userRepository.findAll();
     }
+    
+    @GetMapping
+    public String test() {
+        return "sampleTest";
+    }
 }
